@@ -8,7 +8,7 @@ Plug-in Object
 
 ## Version
 
-1.0.0 - 1/10/2025
+1.0.1 - 2/2/2025
 
 This plug-in is written in Vectorscript (Pascal) and can be used in any version of [Vectorworks](https://www.vectorworks.net) 2019 or newer.
 
