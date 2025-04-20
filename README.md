@@ -129,8 +129,7 @@ The **Refresh Parent Reporters** menu command uses the following plug-in strings
 | Date | Version | Note |
 | :---: | :---: | :--- |
 | 01/10/2025 | 1.0.0 | Initial release |
-| 02/02/2025 | 1.0.1 | Added Refresh Parent Reporters menu command |
-| - | - | Text will now use Fill Style and Fill Color of plug-in object |
+| 02/02/2025 | 1.0.1 | Added Refresh Parent Reporters menu command <br><br> Text will now use Fill Style and Fill Color of plug-in object |
 
 ## Known Bugs
 
